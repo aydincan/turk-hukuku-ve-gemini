@@ -1,0 +1,6 @@
+{
+  "name": "turk-hukuku-skills",
+  "version": "1.0.0",
+  "description": "Türk hukuku için Agent Skills — 81 hukuk alanı, 1000+ alt-konu; metodoloji, atıf hijyeni, dava ve mütalaa. Hukuki danışmanlık değildir.",
+  "contextFileName": "GEMINI.md"
+}
