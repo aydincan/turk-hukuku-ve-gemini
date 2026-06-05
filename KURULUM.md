@@ -13,7 +13,7 @@ bir Agent Skills koleksiyonudur:
 ## A) Doğrudan kur (önerilen)
 
 ```bash
-gemini extensions install https://github.com/aydincan/gemini-ve-turk-hukuku
+gemini extensions install https://github.com/aydincan/turk-hukuku-ve-gemini
 ```
 
 ## B) Galeriden — adres yazmadan

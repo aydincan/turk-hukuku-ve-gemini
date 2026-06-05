@@ -37,8 +37,8 @@ PAZAR = {
     "sahip": _p["sahip"],
     "lisans": _p["lisans"],
     "ithaf": _p["ithaf"],
-    "homepage": "https://github.com/aydincan/gemini-ve-turk-hukuku",
-    "kurulum_yolu": "aydincan/gemini-ve-turk-hukuku",
+    "homepage": "https://github.com/aydincan/turk-hukuku-ve-gemini",
+    "kurulum_yolu": "aydincan/turk-hukuku-ve-gemini",
     "aciklama": ("Gemini ve Türk Hukuku — Google Gemini CLI için Türk hukuku Agent Skills "
                  "koleksiyonu. Her hukuk alanı bir skill; metodoloji, atıf hijyeni, sözleşme, "
                  "dava ve mütalaa iş akışları. Katı kaynak hijyeni: içtihat yalnızca "
