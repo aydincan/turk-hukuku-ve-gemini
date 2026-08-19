@@ -26,7 +26,7 @@ Bu depo bir **Gemini CLI extension**'ıdır (`gemini-extension.json` + `skills/`
 **Doğrudan kur (önerilen):**
 
 ```bash
-gemini extensions install https://gitlab.com/aydincan/turk-hukuku-ve-gemini
+gemini extensions install https://github.com/aydincan/turk-hukuku-ve-gemini
 ```
 
 **Galeriden (adres yazmadan):** Extension, Gemini CLI **Extensions Gallery**'sinde otomatik
